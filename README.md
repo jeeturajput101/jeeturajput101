@@ -1,250 +1,241 @@
 <div align="center">
 
-# 👋 Hi, I'm Jeetu Lodhi
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=Jeetu%20Lodhi&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20JavaScript&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-### 💻 MERN Stack Developer · Full-Stack Developer · JavaScript Enthusiast
+<!-- Typing Animation -->
+<a href="https://github.com/jeeturajput101">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;MERN+Stack+Developer+%E2%9A%9B%EF%B8%8F;JavaScript+Enthusiast+%F0%9F%92%BB;Building+Modern+Web+Experiences+%F0%9F%8C%90;Always+Learning.+Always+Building.+%F0%9F%94%A5" alt="Typing SVG"/>
+</a>
 
+<br/>
+
+<!-- Profile Links -->
 <p>
   <a href="https://jeetu-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-2563EB?style=for-the-badge&labelColor=0F172A" alt="Portfolio"/>
   </a>
   <a href="https://github.com/jeeturajput101">
-    <img src="https://img.shields.io/badge/GitHub-@jeeturajput101-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/💻%20GitHub-jeeturajput101-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:jeetulodhi0010@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/✉️%20Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=jeeturajput101&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=jeeturajput101&label=PROFILE%20VIEWS&color=0EA5E9&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-I'm a passionate **Full-Stack Developer** who enjoys turning ideas into scalable, user-friendly web applications.
+<img align="right" width="360" src="https://raw.githubusercontent.com/jeeturajput101/jeeturajput101/main/assets/coding.gif" alt="Coding"/>
 
-* 🌱 Currently learning and deepening my knowledge of **React.js**
-* 💻 Focused on building modern **MERN Stack applications**
-* 🧩 Interested in clean architecture, APIs, databases and responsive UI
-* 🔧 Comfortable working across both frontend and backend
-* 🎨 I enjoy combining development with UI/UX thinking
-* 🎮 Gamer & content creator outside of coding
-* 🚀 Always learning, building and experimenting with new technologies
+Hi, I'm **Jeetu Lodhi** — a passionate **Full-Stack Developer** focused on building modern, scalable and user-friendly web applications.
 
-> **I don't just write code — I build things that solve problems.**
+I enjoy transforming ideas into real products by combining **clean code, thoughtful architecture and intuitive UI/UX**.
 
----
+### 🚀 What I'm Currently Doing
 
-## 🛠️ Tech Stack
+- ⚛️ Deepening my knowledge of **React.js**
+- 🔥 Building modern **MERN Stack applications**
+- 🧠 Improving **JavaScript & backend architecture**
+- 🔌 Designing and consuming **REST APIs**
+- 🗄️ Working with **MongoDB & MySQL**
+- 🎨 Exploring better **UI/UX and responsive design**
+- ☁️ Learning more about **deployment & cloud technologies**
+- 🤝 Exploring **open-source contributions**
 
-### 💻 Languages
+<br clear="right"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,java,python,c,html,css" alt="Languages"/>
-</p>
-
-### ⚛️ Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,bootstrap,tailwind,sass" alt="Frontend Technologies"/>
-</p>
-
-### 🧠 Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Backend and Database Technologies"/>
-</p>
-
-### 🔧 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vercel,firebase" alt="Tools and Platforms"/>
-</p>
+> ### 💡 My Philosophy
+> **Build with purpose. Learn continuously. Write better code every day.**
 
 ---
 
-## 📊 GitHub Analytics
+# ⚡ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,java,python,c,html,css" />
+
+<br/><br/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,reactnative,bootstrap,tailwind,sass" />
+
+<br/><br/>
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+
+<br/><br/>
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vercel,vscode" />
+
+</div>
+
+---
+
+# 🧩 What I Build
+
+<div align="center">
+
+| Area | Focus |
+|:---:|:---|
+| 🎨 **Frontend** | Responsive interfaces, reusable components & modern UI |
+| ⚙️ **Backend** | REST APIs, authentication & server-side architecture |
+| 🗄️ **Database** | MongoDB, MySQL, Firebase & data modeling |
+| 🔐 **Authentication** | Secure login, authorization & protected routes |
+| 📱 **Responsive Design** | Mobile-first & cross-device experiences |
+| 🚀 **Deployment** | Production-ready applications & cloud deployment |
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/jeeturajput101">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeeturajput101&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight" alt="Jeetu's GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jeeturajput101&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&bg_color=0F172A" alt="GitHub Stats"/>
 </a>
 
 <a href="https://github.com/jeeturajput101">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeeturajput101&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeeturajput101&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0F172A" alt="Top Languages"/>
 </a>
 
 </div>
 
----
-
-## 🔥 Contribution Streak
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeeturajput101&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeeturajput101&theme=tokyonight&hide_border=true&background=0F172A" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeeturajput101&theme=tokyo-night&hide_border=true&area=true" alt="Jeetu's Contribution Activity Graph"/>
-
-</div>
-
-The activity graph uses the current Vercel deployment of `github-readme-activity-graph`; the old Heroku deployment should not be used.
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jeeturajput101&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeeturajput101&theme=tokyo-night&hide_border=true&area=true&bg_color=0F172A" width="95%" alt="Contribution Graph"/>
 
 </div>
 
 ---
 
-## ⭐ GitHub Highlights
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeeturajput101&theme=tokyonight" alt="GitHub Profile Summary"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jeeturajput101&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="95%" alt="GitHub Trophies"/>
 
 </div>
 
+---
+
+# 📌 GitHub Profile Summary
+
 <div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeeturajput101&theme=tokyonight" width="95%" alt="Profile Details"/>
+
+<br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeeturajput101&theme=tokyonight" alt="GitHub Statistics"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeeturajput101&theme=tokyonight" alt="Repositories Per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeeturajput101&theme=tokyonight" alt="Repository Languages"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
+
+> Replace the examples below with your **3–6 strongest real projects**.  
+> Your projects are the most important part of your GitHub profile.
 
 ### 🛒 E-Commerce Platform
 
-> Full-stack e-commerce application with modern UI, authentication, product management and backend APIs.
+A full-stack e-commerce platform featuring authentication, product management, shopping cart functionality and REST APIs.
 
-**Tech:** `React` `Node.js` `Express` `MongoDB`
+**Built with**
+
+`React` `Node.js` `Express` `MongoDB`
 
 <p>
   <a href="https://github.com/jeeturajput101">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View Project"/>
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
   </a>
 </p>
 
 ---
 
-### 📱 Full-Stack Web Application
+### ⚡ Full-Stack Web Application
 
-> A responsive full-stack application focused on real-world functionality, clean UI and scalable backend architecture.
+A responsive full-stack application designed around real-world functionality with a scalable backend and modern frontend architecture.
 
-**Tech:** `React` `Node.js` `Express` `MongoDB`
+**Built with**
+
+`React` `Node.js` `Express` `MongoDB`
 
 <p>
   <a href="https://github.com/jeeturajput101">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View Project"/>
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
   </a>
 </p>
 
 ---
 
-### 🎨 Portfolio Website
+### 🌐 Developer Portfolio
 
-> My personal developer portfolio showcasing my projects, skills, experience and journey as a developer.
+A modern personal portfolio showcasing my projects, technical skills, development journey and experience.
 
-**Tech:** `React` `JavaScript` `CSS` `Vercel`
+**Built with**
+
+`React` `JavaScript` `CSS` `Vercel`
 
 <p>
   <a href="https://jeetu-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio"/>
+    <img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio"/>
   </a>
 </p>
 
-> 💡 **Tip:** Replace these placeholder project descriptions/links with your 3–6 strongest actual repositories. Your featured projects should be the most impressive part of your profile.
-
 ---
 
-## 💡 What I Like Building
+# 🧠 Developer Mindset
+
+<div align="center">
 
 ```text
-Frontend Development    ████████████████████  React / JavaScript
-Backend Development     ██████████████████░░  Node / Express
-Database Development    ████████████████░░░░  MongoDB / MySQL
-API Development         █████████████████░░░  REST APIs
-UI/UX                   ███████████████░░░░░  Figma / Responsive UI
-Problem Solving         ███████████████████░  Algorithms / Architecture
-```
-
----
-
-## 📚 Currently Learning
-
-<div align="center">
-
-`React.js` · `Advanced JavaScript` · `REST APIs` · `Full-Stack Architecture` · `Modern Web Development`
-
-</div>
-
----
-
-## 🎯 2026 Goals
-
-* [ ] 🚀 Build more production-ready full-stack applications
-* [ ] ⚛️ Master advanced React.js patterns
-* [ ] 🧠 Improve backend architecture & API design
-* [ ] ☁️ Learn more about deployment and cloud technologies
-* [ ] 🤝 Contribute to open-source projects
-* [ ] 📈 Maintain consistent GitHub contributions
-* [ ] 💼 Grow as a professional Full-Stack Developer
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/jeetu-lodhi">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://www.youtube.com/@2gbrunner">
-  <img src="https://img.shields.io/badge/YouTube-2GB%20Runner-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
-
-<a href="mailto:jeetulodhi0010@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<a href="https://jeetu-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Website-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 Code. Build. Learn. Repeat. 🚀
-
-**Thanks for visiting my profile!**
-
-⭐ If you find my work interesting, consider giving my repositories a star.
-
-</div>
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│   💡 Idea                                                │
+│      ↓                                                   │
+│   🧠 Plan                                                │
+│      ↓                                                   │
+│   💻 Build                                               │
+│      ↓                                                   │
+│   🧪 Test                                                │
+│      ↓                                                   │
+│   🚀 Deploy                                              │
+│      ↓                                                   │
+│   📈 Improve                                              │
+│      ↓                                                   │
+│   🔁 Repeat                                               │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
